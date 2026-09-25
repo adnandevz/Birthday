@@ -1,0 +1,1 @@
+/* Finale and downloadable card logic are handled by the scene controller. */

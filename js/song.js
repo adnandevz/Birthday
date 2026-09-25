@@ -1,0 +1,1 @@
+/* Song player logic is handled by the scene controller. */

@@ -1,0 +1,1 @@
+/* Cake rendering is handled by the scene controller. */

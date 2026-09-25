@@ -1,0 +1,1 @@
+/* Secret room logic is handled by the scene controller. */

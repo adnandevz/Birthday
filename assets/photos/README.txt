@@ -1,0 +1,1 @@
+Your Maheen photos are used throughout the experience. `maheen-01.jpeg` appears on the opening screen; the remaining photos are used in memories and balloon notes. Update paths in js/config.js, content/messages.js, or content/memories.js if you rename them.
